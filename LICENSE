@@ -1,25 +1,43 @@
-**IMPORTANT: READ BEFORE USING**
+**Custom Attribution License**
 
-This tool is provided for **educational and research purposes only**. By using this script, you acknowledge and agree to the following:
+Copyright (c) 2025 Artin Abbasian Rad
 
-1. **Terms of Service Violation**
-   - This tool violates Discord's Terms of Service
-   - Using it may result in account suspension or permanent ban
-   - The author is not responsible for any consequences
+### Terms of Use:
 
-2. **No Warranty**
-   - Provided "as is" without any guarantees
-   - May stop working at any time
-   - No support for banned accounts
+✅ **You CAN:**
+- Use this software for personal purposes
+- Modify the code for your own use
+- Study and learn from the code
 
-3. **Use at Your Own Risk**
-   - You are solely responsible for any consequences
-   - The author disclaims all liability
-   - Not intended for malicious use
+❌ **You CANNOT:**
+- Redistribute this software without giving credit
+- Claim this work as your own
+- Remove or modify the author attribution
+- Use this commercially without permission
 
-4. **Educational Purpose**
-   - Demonstrates Discord's internal architecture
-   - Shows how Flux dispatcher works
-   - Example of browser-based automation
+### Attribution Requirements:
 
-**By using this tool, you accept full responsibility for your actions.**
+**If you share, modify, or redistribute this code, you MUST:**
+
+1. **Keep the original author credit:**
+   ```
+   Original Author: Artin Abbasian Rad
+   GitHub: https://github.com/ArtinAbbasianRad
+   ```
+
+2. **Include a visible link** to the original repository in any distribution
+
+3. **Clearly state** if you made modifications to the original code
+
+4. **Do not remove** any copyright notices or author information from the code
+
+### Disclaimer:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+**Violation of these terms may result in legal action.**
