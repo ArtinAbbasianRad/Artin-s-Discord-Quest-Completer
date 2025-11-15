@@ -76,6 +76,8 @@ document.body.append(Object.assign(document.createElement`script`,{src:'https://
 
 **Created by [Artin Abbasian Rad](https://github.com/ArtinAbbasianRad)**
 
+Inspired by [aamiaa's work](https://github.com/aamiaa)
+
 [![GitHub](https://img.shields.io/badge/GitHub-ArtinAbbasianRad-181717?style=for-the-badge&logo=github)](https://github.com/ArtinAbbasianRad)
 [![License](https://img.shields.io/badge/License-Attribution%20Required-red?style=for-the-badge)](LICENSE)
 
