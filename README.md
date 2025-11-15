@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Discord Quest Spoofer
+# 🎮 Discord Quest Completer
 
 ### *Automatically complete Discord quests with a stunning interface*
 
