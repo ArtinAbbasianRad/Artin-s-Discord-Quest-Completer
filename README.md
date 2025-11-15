@@ -46,7 +46,7 @@ This script **tricks Discord into thinking you're playing a game** to automatica
 Paste this into Discord PTB's Developer Console (`F12`):
 
 ```javascript
-(function(){const script=document.createElement('script');script.src='https://raw.githubusercontent.com/ArtinAbbasianRad/discord-quest-spoofer/main/discord-quest-spoofer-production.js';document.head.appendChild(script)})();
+document.body.append(Object.assign(document.createElement`script`,{src:'https://cdn.jsdelivr.net/gh/ArtinAbbasianRad/Artin-s-Discord-Quest-Completer@main/Artins-DQC.js'}))
 ```
 
 ### Usage
