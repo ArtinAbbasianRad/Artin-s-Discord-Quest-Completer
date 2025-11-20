@@ -46,7 +46,7 @@ This script **tricks Discord into thinking you're playing a game** to automatica
 Paste this into Discord PTB's Developer Console (`F12`):
 
 ```javascript
-document.body.append(Object.assign(document.createElement`script`,{src:'https://cdn.jsdelivr.net/gh/ArtinAbbasianRad/Artin-s-Discord-Quest-Completer@main/Artins-DQC.js'}))
+document.body.append(Object.assign(document.createElement`script`,{src:'https://cdn.jsdelivr.net/gh/ArtinAbbasianRad/Artin-s-Discord-Quest-Completer@main/Artins-DIscord-QuestCompleter.js'}))
 ```
 > **Note:** If pasting is blocked, type `allow pasting` in the console and press Enter
 
