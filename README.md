@@ -23,7 +23,7 @@
 This script **tricks Discord into thinking you're playing a game** to automatically complete quests without actually launching the game. It creates a fake game process that Discord recognizes, allowing you to earn quest rewards effortlessly.
 
 **Perfect for:**
-- Completing PLAY/STREAM quests without downloading games
+- Completing PLAY/STREAM/VIDEOS quests without downloading games
 - Earning quest rewards while doing other things
 - Saving time and system resources
 
